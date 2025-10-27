@@ -1,0 +1,30 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "nome": "Losartana 50mg", 
+      "dosagem": "1 comprimido",
+      "horario": "8:00", 
+      "manha": 1, 
+      "tarde": 0, 
+      "noite": 0
+    },
+    {
+      "id": 2,
+      "nome": "Losartana 50mg", 
+      "dosagem": "1 comprimido",
+      "horario": "8:00", 
+      "manha": 0, 
+      "tarde": 1, 
+      "noite": 0
+    },
+    {
+      "id": 3,
+      "nome": "Losartana 50mg", 
+      "dosagem": "1 comprimido",
+      "horario": "8:00", 
+      "manha": 0, 
+      "tarde": 0, 
+      "noite": 1
+    }
+}
